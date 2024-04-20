@@ -4,7 +4,7 @@
 ### Map of rail station walking buffers in the Newark, Jersey City, Hoboken area. 
 Colors indicate percentage of people traveling to work on public transit.
 
-<img src="ny_area_nj_rail_buffers_with_acs.png" height="800">
+<img src="nyc_area_with_acs_v2.png" height="800">
 
 Interactive Map for the Entire State of New Jersey
 <iframe src = "webmap_ver3.html" height = "800" width = "800"></iframe>
