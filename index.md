@@ -9,7 +9,7 @@ Size of station circles indicate the number of trains that stop at that station 
 <img src="nyc_area_with_acs_v2.png" height="800">
 
 Interactive Map for the Entire State of New Jersey
-<iframe src = "webmap_ver3.html" height = "800" width = "800"></iframe>
+<iframe src = "webmap_ver4.html" height = "800" width = "800"></iframe>
 [Open this map as a new page](webmap_ver3.html).
 
 Code adapted from Dr. Will Payne and Dr. Geoff Boeing
