@@ -4,11 +4,11 @@
 ### Map of rail station walking buffers in the Newark, Jersey City, Hoboken area. 
 Size of station circles indicate the relative number of trains that stop at that station in a day.
 
-<img src="map_1" height="600">
+<img src="map_1.png" height="600">
 
 ### Map of bus stop density in the Newark, Jersey City, Hoboken area. 
 
-<img src="map_2" height="600">
+<img src="map_2.png" height="600">
 
 ### Interactive Map for Northern New Jersey
 [Open this map as a new page](webmap_ver3.html).
