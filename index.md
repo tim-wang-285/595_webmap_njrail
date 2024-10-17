@@ -1,5 +1,5 @@
-## Tompkins Consolidated Area Transit Network, Fall 2024
+## NJ Transit Bus Routes on US-1 (Mercer County)
 Source: Static GTFS
 
-[Open this map as a new page](tcat-ny-us_20241002.html).
-<iframe src = "tcat-ny-us_20241002.html" height = "800" width = "800"></iframe>
+[Open this map as a new page](njt_bus_241016.html).
+<iframe src = "njt_bus_241016.html" height = "700" width = "1000"></iframe>
